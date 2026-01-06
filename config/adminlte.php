@@ -18,7 +18,7 @@ return [
     */
 
 
-    'title' => 'Turnero Psicología Aplicada',
+    'title' => 'Turnero Secretaria General',
     'title_prefix' => '',
     'title_postfix' => '',
 
@@ -71,7 +71,7 @@ return [
     |
     */
 
-    'logo' => 'Turnero Psi. Aplicada',
+    'logo' => 'Turnero Sec. General',
     'logo_img' => 'vendor/adminlte/dist/img/logopuce2.png',
     'logo_img_class' => null,
     'logo_img_xl' => null,
